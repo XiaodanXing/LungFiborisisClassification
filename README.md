@@ -20,7 +20,7 @@ The input images should be arranged as below:
 |   ├── prob
 |   ├── indeter
 |   └── other
-
+└── index.html
 
 ```
 python main.py --help
