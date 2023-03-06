@@ -7,21 +7,31 @@ The input images should be arranged as below:
 ── CTMontages
 
    ├── train
+   
          ├── uip
+         
          └── prob
+         
          └── indeter
+         
          └── other
    
    └── test
          ├── uip
+         
          └── prob
+         
          └── indeter
+         
          └── other
    
    └── val
          ├── uip
+         
          └── prob
+         
          └── indeter
+         
          └── other
 
 ```
