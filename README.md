@@ -5,5 +5,5 @@ The basic architecture we used was a InceptionResNetv2. Categorical cross-entrop
 ## Usage
 
 ```
-python main.py
+python main.py --help
 ```
