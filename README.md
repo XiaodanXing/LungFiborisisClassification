@@ -4,7 +4,7 @@ The basic architecture we used was a InceptionResNetv2. Categorical cross-entrop
 
 ## Usage
 The input images should be arranged as below:
-
+```
 ├── train
 |   ├── uip
 |   ├── prob
@@ -21,6 +21,7 @@ The input images should be arranged as below:
 |   ├── indeter
 |   └── other
 └── index.html
+```
 
 ```
 python main.py --help
